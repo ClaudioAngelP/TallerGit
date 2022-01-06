@@ -1,2 +1,0 @@
-# TallerGit
-Taller Git SEIS
